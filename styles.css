@@ -1,0 +1,16 @@
+#h1 {
+    color: blue;
+    text-align: center
+}
+
+#generate {
+    align-content: center;
+    color: blue;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  #generate:hover {
+    background-color: pink; /* Green */
+    color: blue;
+  }
